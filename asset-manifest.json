@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Samillio/brighter_academy.git/static/css/main.72a46183.css",
+    "main.js": "/Samillio/brighter_academy.git/static/js/main.0bf24ae7.js",
+    "static/js/453.9e28945f.chunk.js": "/Samillio/brighter_academy.git/static/js/453.9e28945f.chunk.js",
+    "static/media/Caution.pdf": "/Samillio/brighter_academy.git/static/media/Caution.e387cf5664278f4c4eee.pdf",
+    "static/media/ibvyn.jpeg": "/Samillio/brighter_academy.git/static/media/ibvyn.c7630836c7c0b5cdfcef.jpeg",
+    "static/media/basaa.jpeg": "/Samillio/brighter_academy.git/static/media/basaa.3bbbf62a26d6d9b59883.jpeg",
+    "static/media/hillary.jpeg": "/Samillio/brighter_academy.git/static/media/hillary.45172e36082ce4d30009.jpeg",
+    "static/media/htcher.jpeg": "/Samillio/brighter_academy.git/static/media/htcher.40509fa44498045b4731.jpeg",
+    "static/media/adm.jpg": "/Samillio/brighter_academy.git/static/media/adm.5e0736986236a29b72fe.jpg",
+    "static/media/logo.jpg": "/Samillio/brighter_academy.git/static/media/logo.c3519ecc2ad7ebd6e8f1.jpg",
+    "index.html": "/Samillio/brighter_academy.git/index.html",
+    "main.72a46183.css.map": "/Samillio/brighter_academy.git/static/css/main.72a46183.css.map",
+    "main.0bf24ae7.js.map": "/Samillio/brighter_academy.git/static/js/main.0bf24ae7.js.map",
+    "453.9e28945f.chunk.js.map": "/Samillio/brighter_academy.git/static/js/453.9e28945f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72a46183.css",
+    "static/js/main.0bf24ae7.js"
+  ]
+}
